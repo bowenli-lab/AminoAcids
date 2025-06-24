@@ -9,7 +9,7 @@ Sankey Diagram: Shows the flow relationships between headgroups, amino acids, an
 Installation
 This project uses Poetry for dependency management. To install:
 # Clone the repository
-git clone https://github.com/yourusername/AminoAcids.git
+git clone [https://github.com/yourusername/AminoAcids.git](https://github.com/bowenli-lab/AminoAcids.git)
 cd AminoAcids
 
 # Install dependencies using Poetry
